@@ -5,11 +5,11 @@ from ultralytics import YOLO
 
 # ===== Model Configuration =====
 MODELS = [
-    {"name": "YOLOv8x", "model_path": "weights/yolov8x.pt", "epochs": 2},
-    {"name": "YOLOv9e", "model_path": "weights/yolov9e.pt", "epochs": 2},
-    {"name": "YOLOv10x", "model_path": "weights/yolov10x.pt", "epochs": 2},
-    {"name": "YOLO11x", "model_path": "weights/yolo11x.pt", "epochs": 2},
-    {"name": "YOLO12x", "model_path": "weights/yolo12x.pt", "epochs": 2},
+    {"name": "YOLOv8x", "model_path": "weights/yolov8x.pt", "epochs": 100},
+    {"name": "YOLOv9e", "model_path": "weights/yolov9e.pt", "epochs": 100},
+    {"name": "YOLOv10x", "model_path": "weights/yolov10x.pt", "epochs": 100},
+    {"name": "YOLO11x", "model_path": "weights/yolo11x.pt", "epochs": 100},
+    {"name": "YOLO12x", "model_path": "weights/yolo12x.pt", "epochs": 100},
 ]
 
 
