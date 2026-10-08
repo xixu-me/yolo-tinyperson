@@ -1,4 +1,4 @@
-torch>=2.0.0
+torch>=2.14.1
 numpy>=1.22.0
 pandas>=3.0.6
 matplotlib>=3.5.0
