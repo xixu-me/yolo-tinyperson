@@ -2,5 +2,5 @@ torch>=2.14.1
 numpy>=2.5.3
 pandas>=3.0.6
 matplotlib>=3.11.2
-requests>=2.28.0
+requests>=2.34.2
 ultralytics>=8.4.174
